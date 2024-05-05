@@ -1,9 +1,9 @@
-deploy_password=AKwWM4Qu2GRppJ7
-mysql_root_password=AKwWM4Qu2GRppJ7
-db_pass=AKwWM4Qu2GRppJ7
-pg_pass=AKwWM4Qu2GRppJ7
-redis_pass=AKwWM4Qu2GRppJ7
-rabbit_pass=AKwWM4Qu2GRppJ7
+deploy_password=PbxK1064@Alcatel
+mysql_root_password=PbxK1064@Alcatel
+db_pass=PbxK1064@Alcatel
+pg_pass=PbxK1064@Alcatel
+redis_pass=PbxK1064@Alcatel
+rabbit_pass=PbxK1064@Alcatel
 deploy_email=pedro@alcatele.com.br
 repositorio=https://github.com/alcatele/izing.open.io.git
 nome_instancia=izing1
